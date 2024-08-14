@@ -1,6 +1,6 @@
 # Pokedex-Java
 
-![Maven Central](https://img.shields.io/maven-metadata/v.svg?label=maven-central&metadataUrl=https%3A%2F%2Frepo1.maven.org%2Fmaven2%2Fio%2Fgithub%2Fluoshenshi%2Fpokedex%2Fmaven-metadata.xml&style=plastic)
+![Pokedex Java](https://img.shields.io/badge/Pokedex_Java-v1.0-crimson?style=flat)
 
 **Pokedex-Java** is a simple and easy-to-use Java library for fetching detailed information about Pokémon.
 
